@@ -84,3 +84,5 @@ streamlit run main.py
 - Stored in **ChromaDB** for **vector-based semantic retrieval**.  
 
 ---
+### 🖼️ Application Snapshot
+![](RealEstate-Tool-UI.png)
